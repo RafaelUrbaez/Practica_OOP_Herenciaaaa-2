@@ -1,3 +1,9 @@
+package Main;
+import Shapes.Rectangle;
+import Shapes.Shape;
+import Shapes.Triangle;
+import Shapes.Circle;
+
 public class Main {
     public static void main(String[] args) {
         // Crear una matriz de formas (Shapes)
