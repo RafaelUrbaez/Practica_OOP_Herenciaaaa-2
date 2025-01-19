@@ -1,3 +1,5 @@
+package Shapes;
+
 public class Triangle extends Shape {
 
     public Triangle(double width, double height) {

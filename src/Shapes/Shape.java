@@ -1,3 +1,5 @@
+package Shapes;
+
 public abstract class Shape {
     protected double width;
     protected double height;
